@@ -2,4 +2,6 @@ hello the World of git!
 
 
 switch to hot-fix to vim
+<<<<<<< HEAD
 12314
+12345
